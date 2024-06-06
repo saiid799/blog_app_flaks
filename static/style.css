@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    border: 2px #eee solid;
+    color: #343a40;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+.table {
+    margin-top: 20px;
+}
